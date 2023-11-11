@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var loginButton: Button
 
     private val database =
-        FirebaseDatabase.getInstance("https://mobilesecurityevaluation-156a5-default-rtdb.europe-west1.firebasedatabase.app/")
+        FirebaseDatabase.getInstance("https://mobileapppieter-default-rtdb.europe-west1.firebasedatabase.app//")
 
 
     private val deviceInfoRef = database.reference
