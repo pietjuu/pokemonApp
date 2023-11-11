@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73411421619",
+    "project_id": "mobileapppieter",
+    "storage_bucket": "mobileapppieter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73411421619:android:a816eb3a38df76a0acd7c6",
+        "android_client_info": {
+          "package_name": "com.example.pokemonmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi9SSv-y7PizJfk4dAq56-cjqWrepQb_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
